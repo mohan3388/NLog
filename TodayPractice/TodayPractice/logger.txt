@@ -1,0 +1,2 @@
+2022-08-01 21:35:24.0402|DEBUG|TodayPractice.NLog|The program Execute
+2022-08-01 21:35:24.1161|INFO|TodayPractice.NLog|the value added
